@@ -1,0 +1,24 @@
+{
+  "name": "emo-db",
+  "version": "0.2.0",
+  "description": "JSON Based Database, Specifically For Normal Discord Bots",
+  "main": "emo-db.js",
+  "scripts": {
+    "start": "node emo-db.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegendaryEmoji/emo-db.git"
+  },
+  "keywords": [
+    "JSON",
+    "Database",
+    "Emo"
+  ],
+  "author": "Legendary Emoji#1742",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LegendaryEmoji/emo-db/issues"
+  },
+  "homepage": "https://github.com/LegendaryEmoji/emo-db#readme"
+}
